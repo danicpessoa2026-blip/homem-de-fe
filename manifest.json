@@ -1,7 +1,7 @@
 {
-  "name": "Homem de Fé — Planner Evangélico",
-  "short_name": "Homem de Fé",
-  "description": "Planner evangélico para o homem de Deus",
+  "name": "Homem de Fe - Planner Evangelico",
+  "short_name": "Homem de Fe",
+  "description": "Planner evangelico para o homem de Deus",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#1e3d5c",
